@@ -1,4 +1,6 @@
 # excel-dashboard
+<img width="1515" height="715" alt="Screenshot 2026-03-26 230654" src="https://github.com/user-attachments/assets/abeaa5cc-058c-4ad9-9e0a-b67856441d54" />
+
 📊 Vrinda Store – Annual Sales Analysis Dashboard (Excel)
 
 This Excel dashboard provides a complete annual performance analysis of the Vrinda Store, focusing on customer demographics, sales distribution, and order behavior. It uses Pivot Tables, Pivot Charts, and interactive slicers to help filter and explore the data effectively.
